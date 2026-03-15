@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Infinity karat",
+  "base_artist": "七海うらら",
+  "createdAt": "2026-03-15T09:09:24.686334Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Infinity karat",
+      "artist": "七海うらら",
+      "has_synced": false,
+      "path": "select/pl_01_Infinity_karat_七海うらら.txt"
+    }
+  ]
+}
